@@ -1,8 +1,8 @@
-Name:
+Name:Priyanka Shivshankar Patle
 
-Compilation and Run Successful:
+Compilation and Run Successful: While compiliing and running, there was one error regarding JDK location so updated correct location and run the file. Then connected the device and run the mainactivity on LG G4 phone and recieved "Hello World" and a bar to enter data right below it.
 
-Unit Test Run Successfully:
+Unit Test Run Successfully: I was able to run the app successfully.
 
 # Project 1 - CSC 413 Spring 2016
 ###DUE Friday, September 23 by 5:00 PM
